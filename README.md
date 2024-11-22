@@ -65,7 +65,5 @@
 
 ## TAKE A PEEP AT MY PROJECT
 
-### https://conkehlicious.github.io/paris_milestone01/
 ### https://vegasrent.netlify.app/
-### https://thongdarren.my.id/
 
